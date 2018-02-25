@@ -1,0 +1,11 @@
+U zip fajlu RestAPI.zip imate dump baze apiDB.sql
+
+podesite parametre za konekciju sa bazom i fajlu DbConnect.php
+
+Detaljnija uputsva za testiranja imate u fajlu API_readme.pdf
+
+
+
+
+Predrag Colic
+predragcolic@gmail.com
